@@ -8,7 +8,7 @@
 # Copyright:   (c) rnicolescu 2022
 # Licence:     intern
 #-------------------------------------------------------------------------------
-
+#### All input files are stored localy and not need to be uploaded here. 
 print "Arcpy library loading..."
 
 from arcpy import env
